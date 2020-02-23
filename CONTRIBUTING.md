@@ -1,5 +1,6 @@
 This repo showcases a list of useful online free web development tools for freelancing, personal projects and maybe more ... 
-see [web-dev-tools.md]
+see [web-dev-tools.md](https://github.com/Linda-Ikechukwu/Web-Development-Tools/blob/master/web-dev-tools.md).
+
 If you have any awesome free tools that has made development easier for you in one way or another, consider adding it to our list.
 
 ## To Contribute:

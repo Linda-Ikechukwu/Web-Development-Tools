@@ -5,4 +5,4 @@ see web-dev-tools.md
 
 ## Our Awesome Contributors
 
-*[Linda Ikechukwu](https://twitter.com/_MsLinda)
+* [Linda Ikechukwu](https://twitter.com/_MsLinda)

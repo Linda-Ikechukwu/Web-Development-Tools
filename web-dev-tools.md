@@ -34,4 +34,10 @@ Free online tools useful for creating product/app image mockups
 1. [Whimsical.com](https://whimsical.com)
    
    Whimsical is a free/paid web app that can be used to create wireframes, flowcharts, sticky-notes and mind maps designs quickly and      share across teams.
+   
+## Libraries
+
+1. [fraction.js](https://github.com/ekg/fraction.js/)
+   
+   Fraction.js is a fraction arithmetic library written in javascript. It provides a simple interface to add, subtract, multiply, and      divide fractions.
 

@@ -40,4 +40,10 @@ Free online tools useful for creating product/app image mockups
 1. [fraction.js](https://github.com/ekg/fraction.js/)
    
    Fraction.js is a fraction arithmetic library written in javascript. It provides a simple interface to add, subtract, multiply, and      divide fractions.
+   
+## Fonts
+
+1. [Google WebFonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
+
+   Makes downloading fonts to use locally easier. Get eot, ttf, svg, woff and woff2 files + CSS snippets.
 

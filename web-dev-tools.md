@@ -11,6 +11,10 @@ An organized list of useful and handy online **free** web development tools for 
 2. [Image Compressor](https://imagecompressor.com/)
 
    Useful for bulk compression and optimization of images, up to 20 at a go. Uses a smart combination of the best optimization and lossy    compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality.
+   
+3. [Remove Bg](https://www.remove.bg/)
+
+   Remove Image backgrounds 100% automatically with zero clicks. Its free too
 
 ##  Mock-ups
 Free online tools useful for creating product/app image mockups
@@ -46,4 +50,26 @@ Free online tools useful for creating product/app image mockups
 1. [Google WebFonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
 
    Makes downloading fonts to use locally easier. Get eot, ttf, svg, woff and woff2 files + CSS snippets.
+   
+2. [Font Pairings By People](https://fontpairings.bypeople.com/)
 
+   Experiment with and see live font combinations for your net project
+   
+   
+## Illustrations
+
+1. [Illustrations.co](https://illlustrations.co/)
+   
+   Illustrations is a freeopen source illustration kit that can be used to be awesome landing pages.
+   
+   
+## Colours
+
+1. [Happy Hues](https://www.happyhues.co/palettes/7)
+
+   Not sure what colors to use in your designs or where to use them? Happy Colors is a color palette inspiration site that acts as a        real world example as to how the colors could be used in your design projects.
+
+
+
+   
+   

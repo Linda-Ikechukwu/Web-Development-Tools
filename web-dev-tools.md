@@ -45,6 +45,10 @@ Free online tools useful for creating product/app image mockups
    
    Fraction.js is a fraction arithmetic library written in javascript. It provides a simple interface to add, subtract, multiply, and      divide fractions.
    
+2. [Dexie.js](https://dexie.org/)
+
+   Dexie is a super cool library that makes using Indexeddb easy, fun and hassle free.
+   
 ## Fonts
 
 1. [Google WebFonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)

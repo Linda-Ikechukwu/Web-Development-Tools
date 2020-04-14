@@ -33,6 +33,10 @@ Free online tools useful for creating product/app image mockups
 
    Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes.
 
+3. [SVG Generator](https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections)
+
+   This tool generates wavy html elements for making wavy transitions between sections on your website,Just grab the red markers and        create the curve that's right for your website.
+
 ## Design
 
 1. [Whimsical.com](https://whimsical.com)
@@ -64,7 +68,7 @@ Free online tools useful for creating product/app image mockups
 
 1. [Illustrations.co](https://illlustrations.co/)
    
-   Illustrations is a freeopen source illustration kit that can be used to be awesome landing pages.
+   Illustrations is a freeopen source illustration kit that can be used for awesome landing pages.
    
    
 ## Colours

@@ -1,4 +1,4 @@
-# Web-Development-Tools
+# Frontend Web Development Tools
 
 An organized list of useful and handy online **free** web development tools for freelancing, personal projects and maybe more ...
 
@@ -43,7 +43,7 @@ Free online tools useful for creating product/app image mockups
    
    Whimsical is a free/paid web app that can be used to create wireframes, flowcharts, sticky-notes and mind maps designs quickly and      share across teams.
    
-## Libraries
+## JS Libraries
 
 1. [fraction.js](https://github.com/ekg/fraction.js/)
    
@@ -51,7 +51,13 @@ Free online tools useful for creating product/app image mockups
    
 2. [Dexie.js](https://dexie.org/)
 
-   Dexie is a super cool library that makes using Indexeddb easy, fun and hassle free.
+   Dexie is a super cool library that makes using Indexeddb easy, fun and hassle free. 
+   
+## CSS Libraries
+
+1. [Pattern.css](https://bansal.io/pattern-css)
+
+   Pattern Css is a css library for adding beutiful patterns to your website such as you see on popular websites. 
    
 ## Fonts
 

@@ -74,16 +74,20 @@ Free online tools useful for creating product/app image mockups
 
 1. [Illustrations.co](https://illlustrations.co/)
    
-   Illustrations is a freeopen source illustration kit that can be used for awesome landing pages.
+   Illustrations is a free opensource illustration kit that can be used for awesome landing pages.
    
    
 ## Colours
 
 1. [Happy Hues](https://www.happyhues.co/palettes/7)
 
-   Not sure what colors to use in your designs or where to use them? Happy Colors is a color palette inspiration site that acts as a        real world example as to how the colors could be used in your design projects.
+   Not sure what colors to use in your designs or where to use them? Happy Colors is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects.
 
 
+## Others
 
+1. [Choose A Licence](https://choosealicense.com/)
+
+   Get help to choose an open source license for your project based on your needs 
    
    

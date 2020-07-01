@@ -36,4 +36,9 @@ To commit a new contributor to contributor list:
 * Contributor: Added 'Contributor name' to contributor list' eg Contributor: Added Linda Ikechukwu to Contributor List.
 
 
+## Our Awesome Contributors
+
+* [Linda Ikechukwu](https://twitter.com/_MsLinda)
+
+
 

@@ -16,6 +16,11 @@ An organized list of useful and handy online **free** web development tools for 
 
    Remove Image backgrounds 100% automatically with zero clicks. Its free too
 
+4. [Downloader](https://downloader.la/)
+
+   With downloader, you can download pictures from premium photo sites (e.g GettyImages, Shutterstock, Lovepik, Adobestock) without the water marks for free!!
+
+
 ##  Mock-ups
 Free online tools useful for creating product/app image mockups
 
@@ -35,19 +40,19 @@ Free online tools useful for creating product/app image mockups
 
 3. [SVG Generator](https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections)
 
-   This tool generates wavy html elements for making wavy transitions between sections on your website,Just grab the red markers and        create the curve that's right for your website.
+   This tool generates wavy html elements for making wavy transitions between sections on your website,Just grab the red markers and create the curve that's right for your website.
 
 ## Design
 
 1. [Whimsical.com](https://whimsical.com)
    
-   Whimsical is a free/paid web app that can be used to create wireframes, flowcharts, sticky-notes and mind maps designs quickly and      share across teams.
+   Whimsical is a free/paid web app that can be used to create wireframes, flowcharts, sticky-notes and mind maps designs quickly and share across teams.
    
 ## JS Libraries
 
 1. [fraction.js](https://github.com/ekg/fraction.js/)
    
-   Fraction.js is a fraction arithmetic library written in javascript. It provides a simple interface to add, subtract, multiply, and      divide fractions.
+   Fraction.js is a fraction arithmetic library written in javascript. It provides a simple interface to add, subtract, multiply, and divide fractions.
    
 2. [Dexie.js](https://dexie.org/)
 
@@ -84,7 +89,7 @@ Free online tools useful for creating product/app image mockups
    Not sure what colors to use in your designs or where to use them? Happy Colors is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects.
 
 
-## Others
+## OpenSource
 
 1. [Choose A Licence](https://choosealicense.com/)
 

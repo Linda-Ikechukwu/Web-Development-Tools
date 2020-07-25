@@ -72,7 +72,11 @@ Free online tools useful for creating product/app image mockups
    
 2. [Font Pairings By People](https://fontpairings.bypeople.com/)
 
-   Experiment with and see live font combinations for your net project
+   Experiment with and select live font combinations for your next project
+   
+3. [Typefaces](https://github.com/KyleAMathews/typefaces)
+
+   Typeface is a library of NPM packages for Open Source typefaces — making it easier to self-host webfonts. simply npm install and use font in your project
    
    
 ## Illustrations

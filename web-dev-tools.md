@@ -64,6 +64,12 @@ Free online tools useful for creating product/app image mockups
 
    Pattern Css is a css library for adding beutiful patterns to your website such as you see on popular websites. 
    
+## React Libraries
+
+1. [React Hook Forms](https://react-hook-form.com/)
+
+    React Hook Forms is an easy to use library for form validation. It offers Performant, flexible and extensible forms with easy-to-use validation
+   
 ## Fonts
 
 1. [Google WebFonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)

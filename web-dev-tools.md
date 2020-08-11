@@ -42,7 +42,7 @@ Free online tools useful for creating product/app image mockups
 
    This tool generates wavy html elements for making wavy transitions between sections on your website,Just grab the red markers and create the curve that's right for your website.
 
-## Design
+## Quick Prototyping
 
 1. [Whimsical.com](https://whimsical.com)
    
@@ -57,6 +57,10 @@ Free online tools useful for creating product/app image mockups
 2. [Dexie.js](https://dexie.org/)
 
    Dexie is a super cool library that makes using Indexeddb easy, fun and hassle free. 
+   
+3. [LocalForage](https://localforage.github.io/localForage/)
+
+   LocalForage is a js library for seamlessly working with offline storage. It uses a LocalStorage like API to store things in indexedDB/WebSQL/LocalStorage
    
 ## CSS Libraries
 

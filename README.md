@@ -1,4 +1,4 @@
-This repo showcases a list of useful online free web development tools for freelancing, personal projects and maybe more ... 
+This repo showcases a list of useful free online web development tools for freelancing, personal projects and maybe more ... 
 see [web-dev-tools.md](https://github.com/Linda-Ikechukwu/Web-Development-Tools/blob/master/web-dev-tools.md).
 
 If you know any awesome free tools that has made development easier for you in one way or another, consider adding it to our list.
@@ -27,13 +27,13 @@ If your tool doesn't fall under any of the predefined subheadings, feel free to 
 
 ## Commit Messages
 To commit a new tool:
-* Update: Added 'tool-name' under 'Subheadng' e.g Update: Added Image.co under Images
+* Update: Add 'tool-name' under 'Subheading' e.g Update: Added Image.co under Images
 
 To commit a fix to typo:
-* Typo: Fixed typo in 'tool-name' under 'Subheadng'.
+* Typo: Fix typo in 'tool-name' under 'Subheading'.
 
 To commit a new contributor to contributor list:
-* Contributor: Added 'Contributor name' to contributor list' eg Contributor: Added Linda Ikechukwu to Contributor List.
+* Contributor: Add 'Contributor name' to contributor list' eg Contributor: Added Linda Ikechukwu to Contributor List.
 
 
 ## Our Awesome Contributors

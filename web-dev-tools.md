@@ -10,7 +10,7 @@ An organized list of useful and handy online **free** web development tools for 
 
 2. [Image Compressor](https://imagecompressor.com/)
 
-   Useful for bulk compression and optimization of images, up to 20 at a go. Uses a smart combination of the best optimization and lossy    compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality.
+   Useful for bulk compression and optimization of images, up to 20 at a go. Uses a smart combination of the best optimization and lossy    compression algorithms to shrink JPEG    and PNG images to the minimum possible size while keeping the required level of quality.
    
 3. [Remove Bg](https://www.remove.bg/)
 
@@ -19,6 +19,10 @@ An organized list of useful and handy online **free** web development tools for 
 4. [Downloader](https://downloader.la/)
 
    With downloader, you can download pictures from premium photo sites (e.g GettyImages, Shutterstock, Lovepik, Adobestock) without the water marks for free!!
+   
+5. [CoverView](https://coverview.now.sh/)
+
+   Super cool tool for creating cover images for your blog posts.
 
 
 ##  Mock-ups

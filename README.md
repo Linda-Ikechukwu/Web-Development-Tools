@@ -1,9 +1,12 @@
 # Frontend Web Development Tools
 
 
- ->**FIND YOUR NEXT LIFE SAVER TOOL !!!**<-
 
-->An organized list of useful and handy online **free** web development tools for freelancing, personal projects and maybe more ...<-
+ <h1 align="center" font-weight=""bold>FIND YOUR NEXT LIFE SAVER TOOL !!!</h1>
+
+ <p align="center">An organized list of useful and handy online **free** web development tools for freelancing, personal projects and maybe more ...</p>
+ 
+ 
 
 ## Animations
 

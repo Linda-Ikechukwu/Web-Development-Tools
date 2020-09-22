@@ -2,9 +2,9 @@
 
 
 
- <h1 align="center" font-weight=""bold>FIND YOUR NEXT LIFE SAVER TOOL !!!</h1>
+ <h1 align="center" font-weight="bold">Find Your Next Life Saver Tool 😁 !!!</h1>
 
- <p align="center">An organized list of useful and handy online **free** web development tools for freelancing, personal projects and maybe more ...</p>
+ <p align="center">An organized list of useful and handy online <span font-weight="bold">free</span> web development tools for freelancing, personal projects and maybe more ...</p>
  
  
 

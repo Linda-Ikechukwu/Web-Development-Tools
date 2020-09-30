@@ -13,6 +13,10 @@
 1. [Animista](https://animista.net/play)
 
    Animista is a playground of pre-made css animations. Try out animations, copy and paste the code for your own use.
+
+2. [Loading.io](https://loading.io/)
+
+   Loading.io is an all in one animation platform and online editor. Copy and paste code for animated backgrounds, loaders, icons, text and more to use in your project or create    your own.
    
 
 ## Backgrounds

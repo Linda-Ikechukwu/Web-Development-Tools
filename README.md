@@ -33,6 +33,16 @@
 
    Piggment is an online tool for creating the perfect color gradient.
    
+   
+## Code Samples
+
+1. [DevSamples](http://www.devsamples.com/)
+
+   Code samples for common frontend problems on HTML, CSS, JavaScript, React, React Native e.t.c
+   
+2. [useHooks](https://usehooks.com/)
+
+   Easy to understand custom React Hook recipes curated by Gabe Ragland. Find hooks for asynchronous loading and so much more
 
 ## Colours
 

@@ -162,6 +162,14 @@ Free online tools useful for creating product/app image mockups
    
    Whimsical is a free/paid web app that can be used to create wireframes, flowcharts, sticky-notes and mind maps designs quickly and share across teams.
    
+2. [Figma](https://www.figma.com/)
+   
+   Figma helps teams create, test, and ship better designs from start to finish.
+   
+3. [Farmer Motion](https://www.framer.com/motion/)
+   
+   A production-ready motion library for React. Utilize the power behind Framer, the best prototyping tool for teams. Proudly open source.
+   
 
 ## React Libraries
 
@@ -187,6 +195,10 @@ Free online tools useful for creating product/app image mockups
 4. [SVG Repo](https://www.svgrepo.com/)
    
    Explore, search and find the best fitting svg icons or graphics for your next projects. Download free SVG Vectors for commercial use.
+   
+5. [Change SVG Color](https://change-svg-color.edrini.xyz/)
+   
+   Change SVG Color Using CSS Filter
 
 
    

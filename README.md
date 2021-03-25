@@ -58,6 +58,10 @@
 
    Find box shadow ideas for your next cards. Copy and paste code into your project.
    
+2. [Glassmorphisim](https://glassmorphism.com/)
+
+   Glassmorphism is a unified name for the popular Frosted Glass aesthetic that everyone is crazed about. Esaily generate your own glassmorphisim cards.  
+   
 ## Fonts
 
 1. [Google WebFonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
@@ -90,7 +94,11 @@
 
    Generate random avatars and characters for your next app idea. Characters can be downloaded as images or svg or as a react component.
    
+3. [Free Illustrations](https://freeillustrations.xyz/)
 
+   Huge collection of illustration packs of several categories and file types: AI, png, svg, figma, jpeg, gif, xd, e.t.c
+   
+   
 ## Images
 
 1. [Peko-Step.com](https://cdn.peko-step.com/en/)
